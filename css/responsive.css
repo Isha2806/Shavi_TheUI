@@ -1,0 +1,114 @@
+/* Responsive */
+@media (max-width: 1650px) {
+    html {
+      font-size: 57%;
+    }
+  }
+@media (max-width: 1500px) {
+    .section-heading-line {
+      display: none;
+    }
+  }
+  
+@media (max-width: 1400px) {
+    html {
+      font-size: 45%;
+    }
+  
+    .banner-heading span {
+      font-size: 10rem;
+    }
+  
+    .banner-paragraph {
+      width: 45rem;
+      font-size: 3rem;
+    }
+}
+  
+@media (max-width: 900px) {
+    html {
+      font-size: 40%;
+    }
+  
+    .banner {
+      top: 25%;
+    }
+  
+    .banner-heading {
+      height: 15rem;
+    }
+  
+    .banner-heading span {
+      font-size: 8rem;
+    }
+  
+    .footer {
+      padding: 0 5rem;
+    }
+  
+    .footer-nav a {
+      font-size: 1.8rem;
+    }
+  }
+ @media (max-width: 700px) {
+    html {
+      font-size: 35%;
+    }
+  
+    .section-2 {
+      height: 100vh;
+    }
+  .footer {
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+    .footer-nav {
+      margin-bottom: 2rem;
+    }
+  }
+  
+@media (max-width: 500px) {
+    html {
+      font-size: 30%;
+    }
+  
+    .banner-heading span {
+      font-size: 4.5rem;
+      letter-spacing: 2rem;
+    }
+  
+    @keyframes animateHeading {
+      0% {
+        transform: translateZ(8rem);
+        opacity: 0;
+        letter-spacing: 2rem;
+      }
+  
+      3% {
+        transform: translateZ(0);
+        opacity: 1;
+        letter-spacing: 1rem;
+      }
+  
+      25% {
+        transform: translateZ(0);
+        opacity: 1;
+        letter-spacing: 1rem;
+      }
+  
+      28% {
+        transform: translateZ(8rem);
+        opacity: 0;
+        letter-spacing: 2rem;
+      }
+  
+      100% {
+        transform: translateZ(8rem);
+        opacity: 0;
+        letter-spacing: 2rem;
+      }
+    }
+ }
+  /* End of Responsive */
+  
