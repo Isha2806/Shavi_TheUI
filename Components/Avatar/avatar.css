@@ -1,0 +1,23 @@
+.avatar{
+    border-radius: 50%;
+    width:12rem;
+    margin:1rem;
+    aspect-ratio: 1/1;
+    padding: 2px;
+}
+.bahut-hi-chota{
+    width:2rem;
+}
+.bahut-chota{
+    width:4rem;
+
+}
+.chota{
+    width:8rem;
+}
+.badka{
+    width:12rem;
+}
+.bahut-hi-badka{
+    width:16rem;
+}
