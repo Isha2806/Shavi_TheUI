@@ -1,0 +1,39 @@
+@import url(../Avatar/avatar.css);
+@import url(../../css/color.css);
+
+.badge-container {
+  position: relative;
+}
+.badge {
+  position: absolute;
+  width: 3rem;
+  height: 3rem;
+  background-color: var(--text-color);
+  border-radius: 50%;
+  border: 2px solid var(--background-color);
+}
+
+.bottom-right {
+  bottom: 1.25rem;
+  right: 1.125rem;
+}
+
+.online {
+  background-color: var(--success-green-color);
+}
+.offline {
+  background-color: var(--warning-red-color);
+}
+
+.badge-count {
+  position: absolute;
+  padding: 0 4px;
+  min-width: 1rem;
+  min-height: 1rem;
+  background-color: var(--warning-red-color);
+  color: var(--background-color);
+  border-radius: 50%;
+  border: 2px solid var(--background-color);
+  bottom: 1.25rem;
+  right: 1.125rem;
+}
