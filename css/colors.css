@@ -1,0 +1,32 @@
+@import url(../Components/Alert/alert.css);
+@import url(../Components/Avatar/avatar.css);
+@import url(../Components/Badge/badge.css);
+@import url(../Components/Button/button.css);
+@import url(../Components/Card/card.css);
+@import url(../Components/Image/image.css);
+@import url(../Components/Input/input.css);
+@import url(../Components/Lists/lists.css);
+@import url(../Components/Rating/rating.css);
+@import url(../Components/Text-Utilities/Text-Utilities.css);
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css");
+
+html {
+	font-family: "Roboto Slab", serif;
+	background-color: var(--background-color);
+}
+
+:root {
+	--primary-color: #1b0466;
+    --hover-color: #e2190a;
+	--secondary-color: #fff;
+	background: url(/Images/about.jpg) no-repeat;
+	--text-color: #eee;
+	--box--shadow-color: gray;
+	--border-color: #e2e8f0;
+	--warning-red-color: #fa0a0a;
+	--success-green-color: #17c207f3;
+
+	
+	
+}

@@ -1,0 +1,25 @@
+.alert {
+	padding: 1.5rem;
+	border-radius: 5px;
+	width: 100%;
+    font-size: 2rem;
+    
+}  
+
+.primary {
+	background-color: paleturquoise;
+	color: var(--background-color);
+}
+
+.success {
+	background-color: var(--success-green-color);
+	color: var(--background-color);
+}
+.warning {
+	background-color: var(--warning-red-color);
+	color: var(--background-color);
+}
+.dark {
+	background-color: var(--text-color);
+	color: var(--background-color);
+}
