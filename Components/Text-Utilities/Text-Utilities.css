@@ -1,0 +1,72 @@
+ .component-example{
+    flex-direction: column;
+    color: aliceblue;
+  }
+  
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6 {
+    font-family: "Roboto Slab", serif;
+    font-weight: bold;
+    display: block;
+    color: aliceblue;
+  }
+  
+  .h1 {
+    font-size: 2rem;
+  }
+  .h2 {
+    font-size: 2.5rem;
+  }
+  .h3 {
+    font-size: 2.17rem;
+  }
+  .h4 {
+    font-size: 1rem;
+  }
+  .h5 {
+    font-size: 0.83rem;
+  }
+  .h6 {
+    font-size: 0.67rem;
+  }
+  
+  .text-xs {
+    font-size: 2.8rem;
+   
+  }
+  .text-s {
+    font-size: 3rem;
+  }
+  .text-m {
+    font-size: 3.5rem;
+  }
+  .text-l {
+    font-size: 4rem;
+  }
+  .text-xl {
+    font-size: 4.5rem;
+  }
+  .text-gray {
+    color: var(--text-color);
+  }
+  .mark {
+    
+    border-radius: 3px;
+    color: aliceblue;
+    padding: 4px;
+  }
+  .line-through {
+    text-decoration: line-through;
+    font-size: 2rem;
+  }
+  
+  .text-center {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+  }
+  
