@@ -1,0 +1,44 @@
+.input {
+    width: 80%;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: 1px solid var(--text-color);
+  }
+ 
+  .input-box {
+    font-size: 2.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    width: 100%;
+    margin: 1rem;
+    justify-content: center;
+  }
+  .Iprimary {
+   
+    color: var(--success-green-color);
+  }
+  
+  .input-error {
+    color: var(--warning-red-color);
+  }
+  .input-error input {
+    border: 2px solid var(--warning-red-color);
+  }
+  
+  
+  .input-textarea {
+    font-size: 2.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    color: aliceblue;
+  }
+  .input-textarea textarea {
+    min-height: 8rem;
+    min-width: 8rem;
+    text-align: justify;
+  }
+
+  
