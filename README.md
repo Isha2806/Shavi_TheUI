@@ -1,5 +1,12 @@
 <h1>Shavi_TheUI</h1>
 
-![Screenshot (92)](https://user-images.githubusercontent.com/67051067/154831179-7383bb4d-fb2d-4372-8c19-6aaeda22b20c.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/67051067/154831280-70385f37-09be-4a2c-bee2-76ce586ec3d7.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/67051067/154831282-98cab181-b411-45c6-b0f7-220c966e4776.png)
 
-![Screenshot (93)](https://user-images.githubusercontent.com/67051067/154831183-aea2694a-8780-4ea5-930b-02e84806d9c6.png)
+<h1>List of Feature Components in Shavi </h1>
+<ol>
+  <li> Avatar </li>
+  <li> Alert </li>
+   <li> Badge</li>
+</ol>
+
