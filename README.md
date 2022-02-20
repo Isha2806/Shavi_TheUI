@@ -8,29 +8,14 @@
   <li> Avatar </li>
   <li> Alert </li>
    <li> Badge</li>
-   <li> Badge</li>
-  Avatar
-Alert
-Badge
-Badge on Icons
-Badge on Avatars
-Button
-Primary
-Link
-Icon Button
-Floating Action Button
-Card
-Cards with badges
-Cards with dismiss
-Cards with text overlay
-Text only cards
-Vertical/Horizontal cards
-Cards with shadow
-Image
-responsive image
-round image
-Input
-textbox
-with validation and errors style
+   <li> Button</li>
+   <li> Card </li>
+   <li>Image</li>
+  <li>Input</li>
+  <li>Text-utilities</li>
+  <li>Lists</li>
+  <li>Rating</li>
+
+
 </ol>
 
