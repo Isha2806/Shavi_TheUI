@@ -112,4 +112,5 @@ iframe {
 	transform: scale(1);
 	overflow: hidden;
 	width: 100%;
+    color: var(--text-color);
 }
