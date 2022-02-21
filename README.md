@@ -1,6 +1,7 @@
 <h1>Shavi_TheUI</h1>
 
-                <h2>To use this --></h2>
+                <h2>To use this -->  <link rel="stylesheet" 
+      href=" https://yours-shavi-theui.netlify.app/css/Allcss.css  "/>  </h2>
                 
                 
                 https://carbon.now.sh/8v43GEXHbfTtK3KOpmoC 
