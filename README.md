@@ -1,6 +1,5 @@
 <h1>Shavi_TheUI</h1>
-
-                <h2>To use this -->  <link rel="stylesheet" 
+ <h2> <link rel="stylesheet" 
       href=" https://yours-shavi-theui.netlify.app/css/Allcss.css  "/>  </h2>
                 
                 
