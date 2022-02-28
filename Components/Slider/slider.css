@@ -1,0 +1,14 @@
+@import url(/css/Allcss.css);
+.component-description{
+    font-size: 2.5rem;
+}
+.slider{
+-webkit-appearance: none;
+width:100%;
+height:3rem;
+border-radius:0.2rem ;
+outline: invert;
+opacity: 0.6;
+-webkit-transition: .3s;
+transition: opacity .2s;
+}
