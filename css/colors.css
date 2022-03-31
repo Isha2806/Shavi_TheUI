@@ -19,10 +19,10 @@ html {
 :root {
 	--primary-color: #1b0466;
     --hover-color: #e2190a;
-	--secondary-color: #fff;
-	background: url(/Images/about.jpg) no-repeat;
-	--text-color: #eee;
-	--box--shadow-color: gray;
+	--secondary-color: rgba(255, 255, 255, 0.897);
+	background-color: black;
+	--text-color: rgba(238, 238, 238, 0.897);
+	--box-shadow-color: gray;
 	--border-color: #e2e8f0;
 	--warning-red-color: #fa0a0a;
 	--success-green-color: #17c207f3;

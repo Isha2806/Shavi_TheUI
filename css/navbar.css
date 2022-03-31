@@ -2,22 +2,35 @@
 /* Common Styles */
 * {
     
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+   
     outline: none;
     text-decoration: none;
     list-style-type: none;
-    font-family: "Baloo Da 2", cursive;
+    
   }
+  body{
+    width: 100%;
+    min-height: 100vh;
+    height: max-content;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
   
   html {
-    font-size: 62.5%;
+   
     scroll-behavior: smooth;
   }
   /* End of Common Styles */
   
   /* Navbar */
+  .container{
+    width: 80%;
+    min-height: 100vh;
+    height: max-content;
+    margin: auto;
+}
+
+
   .navbar {
     width: 100%;
     height: 8rem;
@@ -139,7 +152,7 @@
   .section-1 {
     width: 100%;
     height: 100vh;
-    background: url(/Images/about.jpg) no-repeat;
+  
     background-size: cover;
   }
   

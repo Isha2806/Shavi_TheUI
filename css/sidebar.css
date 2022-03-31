@@ -1,0 +1,36 @@
+/*Left - Side navigation*/
+.side-left{
+    scroll-behavior: smooth;
+    margin-right: 5rem;
+    position:fixed;
+    top:10rem;
+    bottom: 10rem;
+    grid-area:sideleft;
+    overflow-y: auto;
+    height:calc(100vh -8.2rem);
+}
+
+.navbar-heading{
+    font-weight: 400;
+    font-size: 2rem;
+    color: var(--border-color);
+    border-bottom: 1px solid #d9d9d9;
+    padding:1rem;
+}
+
+.components-list li {
+    color: var(--text-color);
+    font-size: 3rem;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+.components-list li a {
+    color: var(--box-shadow-color);
+}
+
+.components-list li :hover{
+    color: var(--hover-color);
+    transition: all .3s ease-in-out;
+
+}
