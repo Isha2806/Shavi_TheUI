@@ -26,9 +26,32 @@
 }
   
 @media (max-width: 900px) {
-    html {
-      font-size: 40%;
-    }
+  
+    .container{
+    width: 100%;
+  }
+  .side-left{
+      display: none;
+     }
+   .sub-container{
+     
+     margin: auto;
+     width: 100%;
+   }
+  .component-heading{
+    font-size: 3rem;
+  }
+  .component-name{
+    font-size: 2rem;
+  }
+  .component-description{
+    font-size: 3rem;
+  }
+  iframe{
+    width: 100%;
+    overflow: hidden;
+
+  }
   
     .banner {
       top: 25%;
@@ -44,29 +67,29 @@
   
     .footer {
       padding: 0 5rem;
-    }
-  
-    .footer-nav a {
       font-size: 1.8rem;
     }
+  
   }
+  
  @media (max-width: 700px) {
-    html {
-      font-size: 35%;
+   .container{
+     width: 100%;
+   }
+   .side-left{
+       display: none;
+      }
+    .sub-container{
+      
+      margin: auto;
+      width: 90%;
     }
   
-    .section-2 {
-      height: 100vh;
-    }
   .footer {
-      flex-direction: column;
-      justify-content: center;
-    }
-  
-    .footer-nav {
-      margin-bottom: 2rem;
-    }
+      flex-direction: row;
+      
   }
+}
   
 @media (max-width: 500px) {
     html {
@@ -111,4 +134,5 @@
     }
  }
   /* End of Responsive */
+  
   

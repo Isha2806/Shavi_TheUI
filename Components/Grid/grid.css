@@ -1,0 +1,34 @@
+@import url(/Components/Image/image.css);
+@import url(/Components/Card/card.html);
+
+
+
+.grid-50-50-layout{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.grid4-column-layout{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap:0.5rem;
+    width: 50%;
+    max-width: 156.5rem;
+    
+}
+.grid-content-center{
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px){
+    .grid-4-column-layout{
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+
+@media screen and (max-width: 480px){
+   
+    .grid-50-50-layout{
+        grid-template-columns: 1fr;
+    }
+}
