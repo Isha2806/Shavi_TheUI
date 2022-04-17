@@ -7,3 +7,5 @@ menu.addEventListener("click", () => {
   menu.classList.toggle('change')
 });
 // End of Navbar
+
+//modal 
